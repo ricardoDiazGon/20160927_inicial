@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{ 
+    background: grey
+}
+
+#contenedor{
+    margin: 50px auto;
+    padding: 20px;
+    background: whitesmoke;
+    border: 1px;
+    width: 50%;
+    height: 300px;
+    border-radius: 20px;
+}
+
+h1{
+    color: blue;
+    font-family: comic-sans;
+}
+
+li{
+    margin-left: 50px;
+}
